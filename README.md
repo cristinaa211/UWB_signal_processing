@@ -31,7 +31,7 @@ The signal after filtering:
 
 ![image](https://github.com/cristinaa211/UWB_signal_processing/assets/61435903/7ecd214a-a8d9-41dc-a6b2-99b7012ac2fe)
 
-The band-based converted signal:
+The baseband converted signal:
 
 ![image](https://github.com/cristinaa211/UWB_signal_processing/assets/61435903/db6f4f84-be57-4df0-9d84-987ea06fb726)
 
